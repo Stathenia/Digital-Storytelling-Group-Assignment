@@ -94,6 +94,7 @@ A transmedia project necessarily involves more than one medium and can also
 
 6.8.	Which genres (action, adventure, detective, science fiction, fantasy, and so forth) are present in the project?
 
+
 7.	Audience and market
 
 7.1.	What is the target audience of the project? Who is the intended VUP?
@@ -159,6 +160,7 @@ A transmedia project necessarily involves more than one medium and can also
 9.7.	How could a map23 of the story- world be presented?
 
 10.	Aesthetics
+
 10.1.	What kinds of visuals are being used (animation, video, graphics, a mix) in the project?
 
 10.2.	Is the overall look realistic or a fantasy environment?

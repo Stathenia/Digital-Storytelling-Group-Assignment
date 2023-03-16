@@ -26,4 +26,8 @@
 ### GitHub Personal Profile: xxx
 <hr>
 
-
+* [Zoi Galani](https://github.com/ZoiGalanidpsd19014)
++ [Giorgos Marinos](https://github.com/GeorgeDPSD)
+- [Elena-Apostolia Lyra](https://github.com/ElenaLyra)
+* [Dimitris Lymtsioulis](https://github.com/dimitrisl11)
++ [Efstathia Paraskevopoulou](https://github.com/Stathenia)

@@ -1,6 +1,6 @@
 <details>
 
-<summary>1.	Premise and purpose</summary>
+<summary> 1.	Premise and purpose</summary>
 
 
 1.1.	What is the project about?
@@ -215,6 +215,3 @@ A transmedia project necessarily involves more than one medium and can also
 10.4.	How does audio work in this project? Is there ambient sound (rain, wind, traffic noises, etc.), sound effects, music, and so forth?
 
 </details>
-
-
-

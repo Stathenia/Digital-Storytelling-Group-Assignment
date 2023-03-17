@@ -1,5 +1,7 @@
+<details>
 
-1.	Premise and purpose
+<summary>1.	Premise and purpose</summary>
+
 
 1.1.	What is the project about?
 
@@ -9,7 +11,13 @@
 
 1.4.	What is its fundamental purpose? Is it to entertain, to teach or to inform? Is it to market a product?
 
-2.	Narrative
+
+</details>
+
+<details>
+
+<summary>2.Narrative</summary>
+
 
 2.1.	What are the narrative elements (such as plot, theme, characters, etc.) of the project?
 
@@ -27,24 +35,32 @@
 
 2.8.	Is it possible to identify intermedial14 texts in the story?
 
-3.	Worldbuilding
+</details>
 
-3.1.	When the story occurs?
+<details>
 
-3.2.	Which is the central world where
+<summary> 3.	Worldbuilding </summary>
+
+3.1. When the story occurs?
+
+3.2. Which is the central world where
 the project is set?
 
-1.1.	Is it a fictional world, the real world or a mixture of both?
+3.3. Is it a fictional world, the real world or a mixture of both?
 
-1.2.	How it is presented geographi- cally?
+3.4. How it is presented geographi- cally?
 
-1.3.	How the world looks?
+3.5. How the world looks?
 
-1.4.	What challenges, dangers, or delights are inherent to this world?
+3.6. What challenges, dangers, or delights are inherent to this world?
 
-1.5.	Is the storyworld big enough to support expansions?
+3.7. Is the storyworld big enough to support expansions?
 
-4.	Characters
+</details>
+
+<details>
+
+<summary> 4.	Characters </summary>
 
 4.1.	Who are the primary and secondary characters of the story?
 
@@ -56,7 +72,12 @@ the project is set?
 
 4.5.	Are there non-player characters16 (NPCs) in this project? If so, who are they and what kind of role do they play (allies, adversaries, helper figures, etc.)?
 
-5.	Extensions
+</details>
+
+<details>
+
+<summary> 5.	Extensions </summary>
+
 
 5.1.	How many extensions does the project have?
 
@@ -75,7 +96,12 @@ the project is set?
 5.8.	Do the extensions have the ability to spread the content
 and also to provide the possibility to explore the narrative in-depth?
 
-6.	Media platforms and genres
+</details>
+
+<details>
+
+<summary> 6.	Media platforms and genres </summary>
+
 A transmedia project necessarily involves more than one medium and can also
 
 6.1.	What kind of media platforms (film, book, comics, games, and so forth) are involved in the project?
@@ -94,8 +120,12 @@ A transmedia project necessarily involves more than one medium and can also
 
 6.8.	Which genres (action, adventure, detective, science fiction, fantasy, and so forth) are present in the project?
 
+</details>
 
-7.	Audience and market
+<details>
+
+<summary> 7.Audience and market </summary>
+
 
 7.1.	What is the target audience of the project? Who is the intended VUP?
 
@@ -113,7 +143,14 @@ A transmedia project necessarily involves more than one medium and can also
 
 7.8.	Revenue-wise, was the project successful? Why?
 
-8.	Engagement
+
+</details>
+
+
+
+<details>
+
+<summary> 8.	Engagement </summary>
 
 8.1.	Through what point of view (PoV) does the VUP experience this world: first-person, second- person, third-person, or a mixture of them?
 
@@ -143,7 +180,11 @@ A transmedia project necessarily involves more than one medium and can also
 
 8.14.	Is there a system of rewards and penalties?
 
-9.	Structure
+</details>
+
+<details>
+
+<summary> 9.Structure </summary>
 
 9.1.	When did the transmediation begin? Is it a pro-active or retroactive TS project?
 
@@ -158,8 +199,12 @@ A transmedia project necessarily involves more than one medium and can also
 9.6.	How is the project structured? What are the major units of organization?
 
 9.7.	How could a map23 of the story- world be presented?
+</details>
 
-10.	Aesthetics
+
+<details>
+
+<summary> 10.	Aesthetics </summary>
 
 10.1.	What kinds of visuals are being used (animation, video, graphics, a mix) in the project?
 
@@ -168,3 +213,8 @@ A transmedia project necessarily involves more than one medium and can also
 10.3.	Is it possible to identify specific design styles in the project?
 
 10.4.	How does audio work in this project? Is there ambient sound (rain, wind, traffic noises, etc.), sound effects, music, and so forth?
+
+</details>
+
+
+

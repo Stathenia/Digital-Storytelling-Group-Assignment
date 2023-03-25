@@ -31,7 +31,7 @@
 
 2.6.	What are the strategies for expanding the narrative?
 
-2.7.	Are negative capability12 and migratory cues13 included?
+2.7.	Are negative capability and migratory cues included?
 
 2.8.	Is it possible to identify intermedial14 texts in the story?
 

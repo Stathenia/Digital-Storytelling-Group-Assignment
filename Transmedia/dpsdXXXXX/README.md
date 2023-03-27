@@ -21,15 +21,33 @@
 
 2.1.	What are the narrative elements (such as plot, theme, characters, etc.) of the project?
 
+Σε αυτή την ταινία  μικρού μήκους εντοπίζεται ένας γυναικείος χαρακτήρας που περιπλανιέται στα στενά του νησιού της Σύρου μέχρι που αντιλαμβάνεται ότι πλέον δεν βρίσκεται μόνη της.  
+
+
 2.2.	What would be the summary of its storyline?
+
+Σε αυτή την ταινία  μικρού μήκους θα απεικονίζονται διάφορες στιγμές από την παρακολούθηση/καταδίωξη που υπέστει η πρωταγωνιστρια κατα την καθημερινότητα της.  
+
 
 2.3.	What is the timeframe of the story?
 
+Το πλαίσιο που θα οριστεί η ταινια θα ειναι η ανοιξη του 2023 στην Σύρο. 
+
+
 2.4.	What are the major events or challenges offered by the narrative?
+
+Η στιγμή που νιώθει η πρωταγωνίστρια ότι παρακολουθείται. 
+
 
 2.5.	Does the project utilize gaming elements? Does the project involve winning or losing?
 
+Κατά την διάρκεια της ιστορίας θα αντιμετωπίσει διάφορες δυσκολίες και απώτερος σκοπός της είναι να παραμείνει ασφαλής. 
+
+
 2.6.	What are the strategies for expanding the narrative?
+
+Η ιστορία θα εξελίσσεται μέσα από την οπτική της πρωταγωνίστριας, καθώς και τις προκλήσεις που έχει να αντιμετωπίσει.  
+
 
 2.7.	Are negative capability and migratory cues included?
 

@@ -71,7 +71,7 @@
 
 ## 4.	Characters
 
-### 4.1.	Who are the primary and secondary characters of the story?
+### 4.1. Who are the primary and secondary characters of the story?
 
 ### 4.2.	Does the project have any spin-offs15? If so, who are the spin-offs’ protagonists?
 

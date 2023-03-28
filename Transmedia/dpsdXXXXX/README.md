@@ -28,30 +28,29 @@
 
 ### Σε αυτή την ταινία  μικρού μήκους θα απεικονίζονται διάφορες στιγμές από την παρακολούθηση/καταδίωξη που υπέστει η πρωταγωνίστρια κατα την καθημερινότητα της από τον περιεργο τύπο που τη  παρακολουθρί κατα την καθημερινότητα της.  
 
-
 ### 2.3.	What is the timeframe of the story?
 
 ### Το πλαίσιο που θα οριστεί η ταινία μας θα ειναι η εποχή της άνοιξη του έτους 2023 στο νησί της Σύρο. 
-
 
 ### 2.4.	What are the major events or challenges offered by the narrative?
 
 ### Το πρώτο και κύριο σημείο που ειναι σημαντικό στην ταινια μας είναι αυτή η στιγμή που νιώθει η πρωταγωνίστρια ότι παρακολουθείται απο τον άγνωστο αυτόν τύπο στασ τενά της Σύρου και κατα δεύτερον το βασικό σημείο που ειναι βασικ΄ογια την πλοκή της ιστορίας μας είναι αυτό που αφορά τον τρόπο που αντομλετωπίζει η πρωταγωνηστρια την συμπεριγορά του αγνωστου που την ακολουθεί στα στενά του νησιού. 
 
-
 ### 2.5.	Does the project utilize gaming elements? Does the project involve winning or losing?
 
-### Κατά την διάρκεια της ιστορίας θα αντιμετωπίσει διάφορες δυσκολίες και απώτερος σκοπός της είναι να παραμείνει ασφαλής. 
-
+### Κατά την διάρκεια της ιστορίας θα αντιμετωπίσει διάφορες δυσκολίες και απώτερος σκοπός της είναι να παραμείνει ασφαλής.
 
 ### 2.6.	What are the strategies for expanding the narrative?
 
-### Η ιστορία θα εξελίσσεται μέσα από την οπτική της πρωταγωνίστριας, καθώς και τις προκλήσεις που έχει να αντιμετωπίσει.  
-
+### Η ιστορία θα εξελίσσεται μέσα από την οπτική της πρωταγωνίστριας, καθώς και τις προκλήσεις που έχει να αντιμετωπίσει.
 
 ### 2.7.	Are negative capability and migratory cues included?
 
-### 2.8.	Is it possible to identify intermedial14 texts in the story?
+### Στο υλικό που θα συλλέξουμε για την σύνθεση της ταινίας μας, δεν θα χρησιμοποιλησουμε αρνητικές δυνατότητες ή μεταναστευτικά στοιχεία.
+
+### 2.8.	Is it possible to identify intermedial texts in the story?
+
+### Στην ταινία που θα φτιάξουμε δεν υπάρχουν ενδιάμεσα κείμενα στην ιστορία, αλλά η προσθήκη του σίγουρα θα μππρούσαν ωφελούσαν την αφήγησή μας.
 
 ## 3.	Worldbuilding 
 
@@ -89,21 +88,26 @@
 
 ### Οι κύριοι χαρακτήρες της ταινίας μας είναι η πρωταγωνίστρια όπου βασιζεται η πλοκή αλλά και η εξέλιξη της ιστορίας μας αλλά και στην πρώτη γραμμήγ του βίντεο θα τεθεί ένας χαρακτηρας ανδρικής μορφής όπου ο ρόλος του θα ειναι να ακολουθεί και θα κατασκοπεύει τον πρωταγωνιστικό χώρο. Δευτερεύοντες χαρακτηρς μποεί να θεωρθούν όλοι οι άνθρωποι του περιβάλλοντος που ουσιαστικά θα εντοπίζονται στο πόσω χώρο των πλάνων. 
 
-### 4.2.	Does the project have any spin-offs15? If so, who are the spin-offs’ protagonists?
+### 4.2.	Does the project have any spin-offs? If so, who are the spin-offs’ protagonists?
 
 ### 4.3.	Can the storyworld be considered a primary character of its own?
 
+### Στην περιπτωση που ειστε διατεθημένοι και η φαντασιας ως θεατές αυτς της ταινιας που θα ετοιμάσουμς σας το επιτρέπει, τότε θα μπορούσε να θεωρηθεί κάτι τέτοιο. 
+
 ### 4.4.	Can the audience be considered a character as well?
 
-### 4.5.	Are there non-player characters16 (NPCs) in this project? If so, who are they and what kind of role do they play (allies, adversaries, helper figures, etc.)?
+### Στην περίπτωση της ταινίας που επιθυμούμς να φτίαξουμε θα μπορούσε το κάθε μέρος του ποσοστό των θεατών να ταυτιατούν και συνεπώς να εντοπίσουν κάτι διαφορετικό είτε την πλοκή ειτέ με την στάση των ρόλων που αποτυπώνονται στην ιστορία μας. 
+
+
+### 4.5.	Are there non-player characters (NPCs) in this project? If so, who are they and what kind of role do they play (allies, adversaries, helper figures, etc.)?
 
 ## 5.	Extensions 
 
 ### 5.1.	How many extensions does the project have?
 
-### 5.2.	Are the extensions adaptations (the intersemiotic translation from one system to another) or expansions of the narrative through various media17?
+### 5.2.	Are the extensions adaptations (the intersemiotic translation from one system to another) or expansions of the narrative through various media?
 
-### 5.3.	Is each extension canonical18? Does it enrich the story?
+### 5.3.	Is each extension canonical? Does it enrich the story?
 
 ### 5.4.	Does each extension maintain the original characteristics of the world?
 

@@ -87,6 +87,8 @@
 
 ### 4.1. Who are the primary and secondary characters of the story?
 
+### οι κύριοι χαρακτήρες της ταινίας μας ειναι η πρωταγωνίστρια όπου βασιζεται η πλοκή αλλα και η εξέλιξη αυτής της ιστορίας, που κατέχει γυναικέια μορφή, και ενας ακόμη βασικός χαρακτηρας. 
+
 ### 4.2.	Does the project have any spin-offs15? If so, who are the spin-offs’ protagonists?
 
 ### 4.3.	Can the storyworld be considered a primary character of its own?

@@ -141,6 +141,8 @@
 
 ### 6.2.	Which devices (computer, game console, tablet, mobile phone, etc.) are required by the project?
 
+### Η μικρού μήκους ταινία, ανάλογα με τη διανομή, απαιτεί οποιαδήποτε συσκευή με πρόσβαση σε πλατφόρμες ροής όπως το Youtube ή το Netflix. 
+
 ### 6.3.	How each platform is partici- pating and contributing to the whole project? What are their functions in the project?
 
 ### 6.4.	What are the distinctive charac- teristics of each media platform?

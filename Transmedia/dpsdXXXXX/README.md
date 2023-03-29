@@ -105,7 +105,11 @@
 
 ### 5.1.	How many extensions does the project have?
 
+### Οι επεκτάσεις που θα θέσουμε στην ταινία μας θα αφορούν ένα κομμάτι της διάρκεια της ιστορίας μας για να μπορέσι να βοηθήσει τον θεαστη στην κατανοήσει αλλά και στην ομαλότερη παρακολούθηση και ροη της ως προς τα μάτια του θεατή, κάτι το οποίο θα πραγματοποιηθεί μέσω την χρήση και την ενταξη ορισμένων κειμένων με την μορφή της αφήγησης στην ροή της ταινίας μας. 
+
 ### 5.2.	Are the extensions adaptations (the intersemiotic translation from one system to another) or expansions of the narrative through various media?
+
+### Οι επεκτάσεις που θα επιλέξουμε ως ομάδα θα αφορούν την ένταξη της αφήγησης μέσω διαφόρων μέσων είτε μέσψ κάποιων αποφθεγμάτων είτε ρητών είτε κάποιο άλλο σχήμα λόγου για την συνηδητη μας επιλογή να καταφύγομε στην επιλογή της ενταξής ορισμένων «μυνημάτων» προς τα ατομα που μπορεί να παρακολουθήσουν αυτή την ταινία. 
 
 ### 5.3.	Is each extension canonical? Does it enrich the story?
 
@@ -117,8 +121,7 @@
 
 ### 5.7.	Do the extensions open up new possibilities for additional expansion?
 
-### 5.8.	Do the extensions have the ability to spread the content
-and also to provide the possibility to explore the narrative in-depth?
+### 5.8.	Do the extensions have the ability to spread the content and also to provide the possibility to explore the narrative in-depth?
 
 ## 6.	Media platforms and genres
 

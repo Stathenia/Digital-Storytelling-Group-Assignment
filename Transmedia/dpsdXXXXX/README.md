@@ -145,6 +145,8 @@
 
 ### 6.3.	How each platform is partici- pating and contributing to the whole project? What are their functions in the project?
 
+### Ο τρόπος με τον οποίο διανέμουμε το περιεχόμενό μας στις διάφορες πλατφόρμες μας δίνει την δυνατότητα να έχεουμε οπτική σε ένα ευρύτερο κοινό έχοντας πρόσβαση στο έργο μας, καθιστώντας το κατί πολύ πιο εύκολο να μοιραστούμε το έργο μας σε μια μεγαλύτρου έυρους αγορα εκοτς απο αυτή που μας δινεται έαν δεν τη διαχειριζόμαστε με αυτό τον τρόπο και κρατόντας μια τέτοια επαφή με το κοινό. 
+
 ### 6.4.	What are the distinctive charac- teristics of each media platform?
 
 ### 6.5.	Identify problems that are specific of each medium.

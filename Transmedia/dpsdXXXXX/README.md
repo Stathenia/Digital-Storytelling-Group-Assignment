@@ -238,7 +238,7 @@
 
 ### 10.2.	Is the overall look realistic or a fantasy environment?
 
-###
+### 
 
 ### 10.3.	Is it possible to identify specific design styles in the project?
 

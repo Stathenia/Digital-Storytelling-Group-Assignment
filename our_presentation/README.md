@@ -26,5 +26,5 @@
 + [Giorgos Marinos](https://github.com/GeorgeDPSD)
 - [Elena-Apostolia Lyra](https://github.com/ElenaLyra)
 * [Dimitris Lymtsioulis](https://github.com/dimitrisl11)
-+ [Efstathia Paraskevopoulou](https://github.com/Stathenia)ω
++ [Efstathia Paraskevopoulou](https://github.com/Stathenia)
 

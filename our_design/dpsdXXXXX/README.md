@@ -1,6 +1,6 @@
 In this folder you can find and example of the design document
 
-## ΠΕΡΙΕΧΟΜΕΝΑ 
+## ΠΕΡΙΕΧΟΜΕΝΑ  
 
 ### 1. Υπόθεση και στόχος 
 ### 2. Αφήγηση

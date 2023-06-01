@@ -1,37 +1,5 @@
 In this folder you can find and example of the design document
 
-## ΠΕΡΙΕΧΟΜΕΝΑ  
-
-### 1. Υπόθεση και στόχος 
-### 2. Αφήγηση
-### 3. Case
-### 4. Worldbuilding - Κόσμος
-### 5. Characters
-### 6. Ακολουθία Σκηνών
-### 7. Τοποθεσίες κινηματογράφησης / επιλογήχώρων
-### 8. Aesthetics
-### 9. Σκηνικα
-### 9.1 props
-### 9.2 Ενδυμασία / Χτενίσματα
-### 9.3 Μουσική
-### 9.4 Αφήγηση
-### 10. Προϋπολογισμός παραγωγής και χρηματοδότηση
-### 11. Προβολή/ Περιβάλλον αλληλεπίδρασης 
-### 12. Απευθυνόμενο κοινό& Αγορά
-### 12.1 Ελκυστικότητα για το προτεινόμενο κοινό-στόχο
-### 12.2 Business model canvas 
-### 13. Εξοπλισμός 
-### 14. Χρονοδιάγραμμα
-### 15. Μέσα διανομής 
-### 15.1 Ταινία μικρού μήκους
-### 15.2.Escape Room Map 
-### 16. Casting
-### 17. Λήψεις
-### 18. Σκηνές 
-### 19. Evaluation 
-### 20. ́Storytelling story
-
-
 ## 1. ΥΠΟΘΕΣΗ ΚΑΙ ΣΤΟΧΟΣ
 
 ### Η παρακολουθηση ενος νεαρου ανδρα από έναν συνομήλικό του ίσως και μεγαλύτερό της σε ηλικία αποτελεί τη κεντρική ιδέα και συνεπώς υπόθεση του έργου μας. Όπου ο πρωταγωνστής καλείται να αντιμετωπίσει και επομένως να αποφύγει την συμπεριφορά ενος τέτοιου ατόμου. Η ιστορία μας θα παρέχει κυρίως πλάνα από τον τρόπο που o πρωταγωνστής βιώνει όλη αυτή την κατάσταση και πως ο πρωταγωνιστής προσπαθεί να τη προσεγγίσει.
@@ -64,6 +32,10 @@ In this folder you can find and example of the design document
 
 
 ## 6. ΑΚΟΛΟΥΘΙΑ ΣΚΗΝΩΝ
+
+
+
+
 
 
 
@@ -121,34 +93,36 @@ In this folder you can find and example of the design document
 
 ## 13. ΕΞΟΠΛΙΣΜΟΣ
 
-### Τρίποδο 
-### Κινητό 
-### Υπολογιστής 
-### Πρόγραμμα editing 
-### Εξωτερικός εξοπλισμός → φακός με εναλλαγή φωτός
+### 1. Τρίποδο 
+### 2. Κινητό 
+### 3. Υπολογιστής 
+### 4. Πρόγραμμα editing 
+### 5. Εξωτερικός εξοπλισμός → φακός με εναλλαγή φωτός
 
 
 ## 14. STORYBOARD
 
 
-![1](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/2635bb54-f154-49a6-8701-3d9e617f14e1)
-![2](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/3084a3ea-79d4-4a35-b4a9-330c26a34250)
-![3](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/68277715-d54d-48c8-8939-1ea68bfb6dfc)
-![4](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/02163298-cdf6-48cb-98b2-ef40292851a6)
-![5](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/8988ac79-2e07-42cd-9da7-3ad5a20d1af3)
-![6](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/a2eba3fb-54db-4581-a9dc-404a7e69bff8)
-![7](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/2299212c-96f5-4a8e-a276-48d006c2b9fb)
-![8](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/11147d51-677d-4a77-84e2-195422175b72)
-![9](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/5803e89e-ca54-4d87-a4c8-d072722915a7)
-![10](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/558c3dc0-071c-45ab-af60-fbbd4ef61963)
-![11](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/3694ab26-0f0b-4a77-8934-130c2484a44a)
-![12](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/ace3f5b3-a332-4de0-89dc-f8caf275a863)
-![13](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/02bd0582-71aa-4877-a009-484c7363de9b)
-![14](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/c1764716-828c-4f77-8864-1bcd6b43fa60)
-![15](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/9c1838cf-7152-40ac-9a19-93807699b89f)
-![16](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/874322b6-f7e5-4612-b567-c95b191c6403)
-![17](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/79a8608a-b118-45c4-8958-6c0bac395587)
-![18](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/00052dc5-9908-4a52-9b9f-012905f8fa3f)
+1. ![1](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/2635bb54-f154-49a6-8701-3d9e617f14e1)
+
+2. ![2](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/3084a3ea-79d4-4a35-b4a9-330c26a34250)
+
+3. ![3](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/68277715-d54d-48c8-8939-1ea68bfb6dfc)
+4. ![4](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/02163298-cdf6-48cb-98b2-ef40292851a6)
+5. ![5](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/8988ac79-2e07-42cd-9da7-3ad5a20d1af3)
+6. ![6](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/a2eba3fb-54db-4581-a9dc-404a7e69bff8)
+7. ![7](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/2299212c-96f5-4a8e-a276-48d006c2b9fb)
+8. ![8](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/11147d51-677d-4a77-84e2-195422175b72)
+9. ![9](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/5803e89e-ca54-4d87-a4c8-d072722915a7)
+10. ![10](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/558c3dc0-071c-45ab-af60-fbbd4ef61963)
+11. ![11](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/3694ab26-0f0b-4a77-8934-130c2484a44a)
+12. ![12](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/ace3f5b3-a332-4de0-89dc-f8caf275a863)
+13. ![13](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/02bd0582-71aa-4877-a009-484c7363de9b)
+14. ![14](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/c1764716-828c-4f77-8864-1bcd6b43fa60)
+15. ![15](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/9c1838cf-7152-40ac-9a19-93807699b89f)
+16. ![16](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/874322b6-f7e5-4612-b567-c95b191c6403)
+17. ![17](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/79a8608a-b118-45c4-8958-6c0bac395587)
+18. ![18](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/assets/100951066/00052dc5-9908-4a52-9b9f-012905f8fa3f)
 
 
 ## 15. ΜΕΣΑ ΔΙΑΝΟΜΗΣ

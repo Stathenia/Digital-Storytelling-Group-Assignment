@@ -134,9 +134,11 @@ In this folder you can find and example of the design document
 ### Μέσω της ταινίας αυτής θα αποδοθεί η συναισθηματική φόρτιση που μπορεί να έχει κάθε κοπέλα που κυκλοφορεί στον κόσμο και προσπαθεί να φτιάξει την ζωή της κάνοντας ενδιαφέροντα πράγματα μέσα σε αυτή και αντιμετωπίζει ένα πρόβλημα το οποίο την επιβαρύνει για να συνεχίσει ανενοχλητη και ήρεμη την καθημερινότητα της. 
 
 
-## 15.2 GRAPHIC NOVEL
+## 15.2 Storytelling story 
  
-### Το graphic novel που θα συνοδεύσει τη ταινία θα εξιστορεί την ίδια ή την γενική ατμόσφαιρα της σε μορφή ένατης τέχνης.
+### Το storytelling story  που θα συνοδεύσει τη ταινία θα εξιστορεί την ίδια ή την γενική ατμόσφαιρα της σε μορφή ένατης τέχνης. Το αρχειό ειναι το εξης:
+
+[STORYTELLINGSTORY_By Team The Weakest Links.pdf](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/files/11629098/STORYTELLINGSTORY_By.Team.The.Weakest.Links.pdf)
 
 
 ## 16. CASTING

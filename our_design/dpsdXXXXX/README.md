@@ -161,7 +161,9 @@ In this folder you can find and example of the design document
 
 ## 20. ΣΕΝΑΡΙΟ 
 
-
 [ΣΕΝΑΡΙΟ ΤΑΙΝΙΑΣ__ByTeam The Weakest Links.pdf](https://github.com/Stathenia/Digital-Storytelling-Group-Assignment/files/11629580/__ByTeam.The.Weakest.Links.pdf)
+
+## 21. ΒΙΝΤΕΟ
+
 
 
